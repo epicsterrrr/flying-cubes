@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "name": "flying-cubes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicsterrrr/flying-cubes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epicsterrrr/flying-cubes/issues"
+  },
+  "homepage": "https://github.com/epicsterrrr/flying-cubes#readme",
+  "description": ""
+}
